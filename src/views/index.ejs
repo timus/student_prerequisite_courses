@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Excel File Upload</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    h1 {
+      color: #333;
+    }
+    form {
+      background: #fff;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      margin-bottom: 20px;
+      width: 100%;
+      max-width: 400px;
+    }
+    input[type="file"] {
+      display: block;
+      margin-bottom: 10px;
+      padding: 5px;
+      width: 100%;
+    }
+    button {
+      background-color: #007bff;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+      border-radius: 5px;
+      width: 100%;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
+    .form-group {
+      margin-bottom: 15px;
+    }
+    label {
+      font-weight: bold;
+      display: block;
+      margin-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Upload Excel Files</h1>
+  <form action="/upload" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+      <label for="student-summary">Student Summary:</label>
+      <input type="file" id="student-summary" name="studentSummary" required>
+    </div>
+    <div class="form-group">
+      <label for="course-prerequisite">Course Prerequisite:</label>
+      <input type="file" id="course-prerequisite" name="coursePrerequisite" required>
+    </div>
+    <button type="submit">Upload</button>
+  </form>
+  <h2>Export Processed Data</h2>
+  <form action="/export" method="get">
+    <button type="submit">Export</button>
+  </form>
+</body>
+</html>

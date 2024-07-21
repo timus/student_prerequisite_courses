@@ -1,0 +1,108 @@
+Subject,Requisite Type,Active,Requisite Subject List
+ACC201,Pre Requisite,TRUE,ACC101: Accounting Practice ( Level -100 )
+ACC202,Pre Requisite,TRUE,ACC101: Accounting Practice ( Level -100 )
+ACC203,Pre Requisite,TRUE,BUS103: Accounting for Decision Making ( Level -100 )
+ACC204,Pre Requisite,TRUE,ACC101: Accounting Practice ( Level -100 )
+ACC302,Pre Requisite,TRUE,ACC101: Accounting Practice ( Level -100 )
+ACC303,Pre Requisite,TRUE,ACC202: Financial Accounting ( Level -200 )
+ACC902,Pre Requisite,TRUE,ACC901: Accounting for Managerial Decisions ( Level -900 )
+FIN901: Managerial Finance ( Level -900 ),,,
+ACC903,Pre Requisite,TRUE,ACC901: Accounting for Managerial Decisions ( Level -900 )
+ACC904,Pre Requisite,TRUE,ACC901: Accounting for Managerial Decisions ( Level -900 )
+ACC905,Pre Requisite,TRUE,ACC902: Financial Accounting and Reporting ( Level -900 )
+ACC906,Pre Requisite,TRUE,ACC902: Financial Accounting and Reporting ( Level -900 )
+ACC907,Pre Requisite,TRUE,ACC902: Financial Accounting and Reporting ( Level -900 )
+ACC905: Auditing and Assurance ( Level -900 ),,,
+BUS102,Pre Requisite,TRUE,ACC101: Accounting Practice ( Level -100 )
+BUS201,Pre Requisite,TRUE,BUS102: Management Principles ( Level -100 )
+BUS202,Pre Requisite,TRUE,ACC101: Accounting Practice ( Level -100 )
+BUS203,Assumed Knowledge (OR) Requisite,TRUE,BUS106: Introduction to Marketing ( Level -100 )
+ENT103: Entrepreneurial Marketing ( Level -100 ),,,
+BUS303,Pre Requisite,TRUE,BUS105: Economics ( Level -100 )
+BUS304,Pre Requisite,TRUE,BUS102: Management Principles ( Level -100 )
+BUS903,Pre Requisite,TRUE,ACC901: Accounting for Managerial Decisions ( Level -900 )
+ACC902: Financial Accounting and Reporting ( Level -900 ),,,
+LAW901: Business and Corporation Law ( Level -900 ),,,
+BUS904,Pre Requisite,TRUE,ACC903: Accounting Information Systems and Analytics ( Level -900 )
+ACC906: Advanced Financial Accounting and Reporting ( Level -900 ),,,
+BUS902: Data Analytics ( Level -900 ),,,
+BUS905,Pre Requisite,TRUE,ACC903: Accounting Information Systems and Analytics ( Level -900 )
+ENT202,Pre Requisite,TRUE,ENT101: Introduction to Entrepreneurship and Innovation ( Level -100 )
+ENT102: Creativity and Innovation for Business ( Level -100 ),,,
+ENT203,Pre Requisite,TRUE,ENT101: Introduction to Entrepreneurship and Innovation ( Level -100 )
+ENT301,Select (OR) Requisite,TRUE,ACC101: Accounting Practice ( Level -100 )
+ENT303,Pre Requisite,TRUE,ENT201: Practices of Entrepreneurship ( Level -200 )
+ENT304,Assumed Knowledge (OR) Requisite,TRUE,ENT103: Entrepreneurial Marketing ( Level -100 )
+ENT305,Pre Requisite,TRUE,BUS106: Introduction to Marketing ( Level -100 )
+BUS202: Business Planning ( Level -200 ),,,
+BUS301: The Digital Economy ( Level -300 ),,,
+ENT304: Integrated Marketing Communications ( Level -300 ),,,
+ENT306,Pre Requisite,TRUE,ENT201: Practices of Entrepreneurship ( Level -200 )
+ENT307,Pre Requisite,TRUE,BUS106: Introduction to Marketing ( Level -100 )
+ENT308,Pre Requisite,TRUE,BUS203: Small Business Management ( Level -200 )
+LAW203: Commercial Law for Entrepreneurs ( Level -200 ),,,
+ENT309,Pre Requisite,TRUE,BUS202: Business Planning ( Level -200 )
+ENT201: Practices of Entrepreneurship ( Level -200 ),,,
+FIN901,Pre Requisite,TRUE,ACC901: Accounting for Managerial Decisions ( Level -900 )
+FIN902,Pre Requisite,TRUE,FIN901: Managerial Finance ( Level -900 )
+FIN903,Pre Requisite,TRUE,FIN901: Managerial Finance ( Level -900 )
+ICT104,Pre Requisite,TRUE,ICT103: Programming ( Level -100 )
+ICT202,Pre Requisite,TRUE,ICT102: Networking ( Level -100 )
+ICT203,Pre Requisite,TRUE,ICT103: Programming ( Level -100 )
+ICT201: Database Systems ( Level -100 ),,,
+ICT204,Pre Requisite,TRUE,ICT101: Introduction to Information Technology ( Level -100 )
+ICT102: Networking ( Level -100 ),,,
+ICT205,Pre Requisite,TRUE,ICT103: Programming ( Level -100 )
+ICT201: Database Systems ( Level -100 ),,,
+ICT203: Web Application Development ( Level -200 ),,,
+ICT206,Pre Requisite,TRUE,ICT103: Programming ( Level -100 )
+ICT208,Pre Requisite,TRUE,ICT104: Fundamentals of Computability ( Level -100 )
+ICT301,Pre Requisite,TRUE,BUS101: Business Communication ( Level -100 )
+BUS102: Management Principles ( Level -100 ),,,
+ICT206: Software Engineering ( Level -200 ),,,
+ICT302,Pre Requisite,TRUE,ICT103: Programming ( Level -100 )
+ICT104: Fundamentals of Computability ( Level -100 ),,,
+ICT208: Algorithms and Data Structures ( Level -200 ),,,
+ICT303,Pre Requisite,TRUE,ICT103: Programming ( Level -100 )
+ICT201: Database Systems ( Level -100 ),,,
+ICT306,Pre Requisite,TRUE,ICT204: Cyber Security ( Level -200 )
+ICT307,Pre Requisite,TRUE,ICT201: Database Systems ( Level -100 )
+ICT203: Web Application Development ( Level -200 ),,,
+ICT206: Software Engineering ( Level -200 ),,,
+ICT308,Pre Requisite,TRUE,ICT307: Project 1 (Analysis and Design) ( Level -300 )
+ICT311,Pre Requisite,TRUE,ICT102: Networking ( Level -100 )
+ICT103: Programming ( Level -100 ),,,
+ICT312,Pre Requisite,TRUE,ICT203: Web Application Development ( Level -200 )
+ICT920,Pre Requisite,TRUE,ICT910: Enterprise Systems Security ( Level -900 )
+ICT921,Pre Requisite,TRUE,ICT912: Programming ( Level -900 )
+ICT922,Pre Requisite,TRUE,ICT913: Networking ( Level -900 )
+ICT930,Pre Requisite,TRUE,ICT911: Database Management Systems ( Level -900 )
+ICT912: Programming ( Level -900 ),,,
+ICT921: Applied Software Engineering ( Level -900 ),,,
+ICT931,Pre Requisite,TRUE,ICT910: Enterprise Systems Security ( Level -900 )
+ICT932,Pre Requisite,TRUE,ICT921: Applied Software Engineering ( Level -900 )
+ICT933,Pre Requisite,TRUE,ICT921: Applied Software Engineering ( Level -900 )
+ICT934,Pre Requisite,TRUE,ICT920: Management Information Systems ( Level -900 )
+ICT940,Pre Requisite,TRUE,ICT931: Cybersecurity Incident Response ( Level -900 )
+ICT941,Pre Requisite,TRUE,ICT923: Information Technology Project Management ( Level -900 )
+ICT944,Pre Requisite,TRUE,ICT910: Enterprise Systems Security ( Level -900 )
+ICT911: Database Management Systems ( Level -900 ),,,
+ICT912: Programming ( Level -900 ),,,
+ICT913: Networking ( Level -900 ),,,
+ICT920: Management Information Systems ( Level -900 ),,,
+ICT921: Applied Software Engineering ( Level -900 ),,,
+ICT922: Digital Transformation and Cloud Computing ( Level -900 ),,,
+ICT923: Information Technology Project Management ( Level -900 ),,,
+ICT946,Pre Requisite,TRUE,ICT920: Management Information Systems ( Level -900 )
+ICT921: Applied Software Engineering ( Level -900 ),,,
+ICT922: Digital Transformation and Cloud Computing ( Level -900 ),,,
+ICT923: Information Technology Project Management ( Level -900 ),,,
+ICT934: Enterprise Systems Integration & Engineering ( Level -200 ),,,
+ICT942: Cybersecurity Project ( Level -200 ),,,
+ICT943: Software Development Project ( Level -200 ),,,
+ICT944: Cybersecurity & Software Development Integrative Project ( Level -200 ),,,
+ICT945: Professional Practice in Information Technology ( Level -200 ),,,
+LAW201,Pre Requisite,TRUE,LAW101: Commerical Law ( Level -100 )
+LAW202,Pre Requisite,TRUE,ACC101: Accounting Practice ( Level -100 )
+LAW902,Pre Requisite,TRUE,ACC901: Accounting for Managerial Decisions ( Level -900 )
+LAW901: Business and Corporation Law ( Level -900 ),,,

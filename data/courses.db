@@ -1,0 +1,171 @@
+{"subject":"ACC201","requisite":"ACC101","_id":"AHKsZx7Lb0Kwlpqc"}
+{"subject":"ACC201","requisite":"Accounting Practice ( Level -100 )","_id":"C8yFuxlDYgc1RvyD"}
+{"subject":"ACC202","requisite":"ACC101","_id":"I816BJ9kTI74vYCL"}
+{"subject":"ACC202","requisite":"Accounting Practice ( Level -100 )","_id":"Bo0XCmtleABxcFSn"}
+{"subject":"ACC203","requisite":"BUS103","_id":"hA8uFUJs9ofGhbQS"}
+{"subject":"ACC203","requisite":"Accounting for Decision Making ( Level -100 )","_id":"Xcba2HNHjZVknvET"}
+{"subject":"ACC204","requisite":"ACC101","_id":"AwJIEJCNKf2FaRnm"}
+{"subject":"ACC204","requisite":"Accounting Practice ( Level -100 )","_id":"fRRyqXMwSLGXFMM2"}
+{"subject":"ACC302","requisite":"ACC101","_id":"I4QrFudyCEEuHq7M"}
+{"subject":"ACC302","requisite":"Accounting Practice ( Level -100 )","_id":"ayPoWCASdk8yfpfD"}
+{"subject":"ACC303","requisite":"ACC202","_id":"lRVkfczUkQHwHy0k"}
+{"subject":"ACC303","requisite":"Financial Accounting ( Level -200 )","_id":"Gu0nmAu0QgXCGrdo"}
+{"subject":"ACC902","requisite":"ACC901","_id":"ZN0HAiJtl2X65LGI"}
+{"subject":"ACC902","requisite":"Accounting for Managerial Decisions ( Level -900 )","_id":"AitTt8YVplbtYMUH"}
+{"subject":"FIN901: Managerial Finance ( Level -900 )","requisite":"","_id":"USDd4a42HnQvEp5B"}
+{"subject":"ACC903","requisite":"ACC901","_id":"TbsuU006bwpZJAzE"}
+{"subject":"ACC903","requisite":"Accounting for Managerial Decisions ( Level -900 )","_id":"2cFVXes3N6oUCh6f"}
+{"subject":"ACC904","requisite":"ACC901","_id":"0KPUw9Up8HZ8wc1R"}
+{"subject":"ACC904","requisite":"Accounting for Managerial Decisions ( Level -900 )","_id":"i8P73zUNFbD1D9T1"}
+{"subject":"ACC905","requisite":"ACC902","_id":"o3YVU90S73FwhoHE"}
+{"subject":"ACC905","requisite":"Financial Accounting and Reporting ( Level -900 )","_id":"blUJ3fxVNd9vYZTj"}
+{"subject":"ACC906","requisite":"ACC902","_id":"GMUHlumIfTpneOQB"}
+{"subject":"ACC906","requisite":"Financial Accounting and Reporting ( Level -900 )","_id":"RDDq4Or8OClgekCO"}
+{"subject":"ACC907","requisite":"ACC902","_id":"CIwQTgMj5FzH3BmJ"}
+{"subject":"ACC907","requisite":"Financial Accounting and Reporting ( Level -900 )","_id":"QXaPVDR0ZvkOimhl"}
+{"subject":"ACC905: Auditing and Assurance ( Level -900 )","requisite":"","_id":"fgrqk4Q1LC4lOMQ4"}
+{"subject":"BUS102","requisite":"ACC101","_id":"icxFAF0pUXhoVxwv"}
+{"subject":"BUS102","requisite":"Accounting Practice ( Level -100 )","_id":"WvyoZRz4DbvGuLiG"}
+{"subject":"BUS201","requisite":"BUS102","_id":"ZD5BGB1lIeGslYQk"}
+{"subject":"BUS201","requisite":"Management Principles ( Level -100 )","_id":"MFxaYSHJBmWfvprP"}
+{"subject":"BUS202","requisite":"ACC101","_id":"WrPzuJqHFRM9SB4r"}
+{"subject":"BUS202","requisite":"Accounting Practice ( Level -100 )","_id":"sa24DZVFZrR7MADL"}
+{"subject":"BUS203","requisite":"BUS106","_id":"EZdzCvqsNux25BJi"}
+{"subject":"BUS203","requisite":"Introduction to Marketing ( Level -100 )","_id":"TNDTpcm4coldBb6Q"}
+{"subject":"ENT103: Entrepreneurial Marketing ( Level -100 )","requisite":"","_id":"0oc0CpY916CRuHwj"}
+{"subject":"BUS303","requisite":"BUS105","_id":"RCx0pKycuRMM5v0R"}
+{"subject":"BUS303","requisite":"Economics ( Level -100 )","_id":"p5RaPHmXc9mMXz0e"}
+{"subject":"BUS304","requisite":"BUS102","_id":"tty1rTGy6abRTHL2"}
+{"subject":"BUS304","requisite":"Management Principles ( Level -100 )","_id":"QKAbzpjIld0usarr"}
+{"subject":"BUS903","requisite":"ACC901","_id":"r55TCnmQJZB7z30B"}
+{"subject":"BUS903","requisite":"Accounting for Managerial Decisions ( Level -900 )","_id":"UmXo7tfqZhN8TGHB"}
+{"subject":"ACC902: Financial Accounting and Reporting ( Level -900 )","requisite":"","_id":"kBnxPPscp0Ppi7cS"}
+{"subject":"LAW901: Business and Corporation Law ( Level -900 )","requisite":"","_id":"2yHDy5UNPgMHv46k"}
+{"subject":"BUS904","requisite":"ACC903","_id":"VXZVjhyT47YJmwDa"}
+{"subject":"BUS904","requisite":"Accounting Information Systems and Analytics ( Level -900 )","_id":"tjh6xvwPriJHBJqI"}
+{"subject":"ACC906: Advanced Financial Accounting and Reporting ( Level -900 )","requisite":"","_id":"To6WUUp8rtQW64kx"}
+{"subject":"BUS902: Data Analytics ( Level -900 )","requisite":"","_id":"q6pXJO0gedTnedgs"}
+{"subject":"BUS905","requisite":"ACC903","_id":"2D9LxelT0t9W8EUK"}
+{"subject":"BUS905","requisite":"Accounting Information Systems and Analytics ( Level -900 )","_id":"IhXYdEX0EpHf5N0V"}
+{"subject":"ENT202","requisite":"ENT101","_id":"eAaBIJvmwQKWBSc1"}
+{"subject":"ENT202","requisite":"Introduction to Entrepreneurship and Innovation ( Level -100 )","_id":"6lt1SyRbEaLFvqn0"}
+{"subject":"ENT102: Creativity and Innovation for Business ( Level -100 )","requisite":"","_id":"TRjBMJs3prTsqkDm"}
+{"subject":"ENT203","requisite":"ENT101","_id":"vCA9bsPJqVDb7hrT"}
+{"subject":"ENT203","requisite":"Introduction to Entrepreneurship and Innovation ( Level -100 )","_id":"UKJA4CJvJ8mxQwNS"}
+{"subject":"ENT301","requisite":"ACC101","_id":"BXKjYs13OnlVkLHD"}
+{"subject":"ENT301","requisite":"Accounting Practice ( Level -100 )","_id":"s8C0f5ZKP6IcvWVH"}
+{"subject":"ENT303","requisite":"ENT201","_id":"9ta2IbA7bei7cDT5"}
+{"subject":"ENT303","requisite":"Practices of Entrepreneurship ( Level -200 )","_id":"3W0wQ1QcBebUckUI"}
+{"subject":"ENT304","requisite":"ENT103","_id":"GG8LbtLTCsLwhR5H"}
+{"subject":"ENT304","requisite":"Entrepreneurial Marketing ( Level -100 )","_id":"sFapB5sp5Kvnoaq5"}
+{"subject":"ENT305","requisite":"BUS106","_id":"DqQM94RaJPl5hUBr"}
+{"subject":"ENT305","requisite":"Introduction to Marketing ( Level -100 )","_id":"koJoqICOQzlM0WiR"}
+{"subject":"BUS202: Business Planning ( Level -200 )","requisite":"","_id":"w6TKmMdyHNPCHZCv"}
+{"subject":"BUS301: The Digital Economy ( Level -300 )","requisite":"","_id":"PCiwFlo6uJhYFLi3"}
+{"subject":"ENT304: Integrated Marketing Communications ( Level -300 )","requisite":"","_id":"3nB9eh2hQHJ0PpCt"}
+{"subject":"ENT306","requisite":"ENT201","_id":"W0TxbszzaCg8RqEI"}
+{"subject":"ENT306","requisite":"Practices of Entrepreneurship ( Level -200 )","_id":"oG9k4Qy15VEcDAAb"}
+{"subject":"ENT307","requisite":"BUS106","_id":"TwoPVWo6jxotNSDM"}
+{"subject":"ENT307","requisite":"Introduction to Marketing ( Level -100 )","_id":"V5vvLGEKUwmzsvZI"}
+{"subject":"ENT308","requisite":"BUS203","_id":"4wcTU0kE1xAaCyHt"}
+{"subject":"ENT308","requisite":"Small Business Management ( Level -200 )","_id":"fojs0dXbmsOu1EU8"}
+{"subject":"LAW203: Commercial Law for Entrepreneurs ( Level -200 )","requisite":"","_id":"rg3Ep9BWH3C6FYpA"}
+{"subject":"ENT309","requisite":"BUS202","_id":"YNBMPRqIDYm43PIf"}
+{"subject":"ENT309","requisite":"Business Planning ( Level -200 )","_id":"mCeSgNnMyJ8GQzpt"}
+{"subject":"ENT201: Practices of Entrepreneurship ( Level -200 )","requisite":"","_id":"ueXDAlGZLjNpUsWE"}
+{"subject":"FIN901","requisite":"ACC901","_id":"DesPljNiQpx0mGmm"}
+{"subject":"FIN901","requisite":"Accounting for Managerial Decisions ( Level -900 )","_id":"drOxGKM9anFtHdvX"}
+{"subject":"FIN902","requisite":"FIN901","_id":"CzuuvLRe5MywrVr8"}
+{"subject":"FIN902","requisite":"Managerial Finance ( Level -900 )","_id":"Gq2UCJ7OsPiilktl"}
+{"subject":"FIN903","requisite":"FIN901","_id":"APPVKWbidS05zq5N"}
+{"subject":"FIN903","requisite":"Managerial Finance ( Level -900 )","_id":"USs5VBdMH9NA34gw"}
+{"subject":"ICT104","requisite":"ICT103","_id":"Tkj5oTvz7Ktio2As"}
+{"subject":"ICT104","requisite":"Programming ( Level -100 )","_id":"1xaVyuFIQhNkJdlZ"}
+{"subject":"ICT202","requisite":"ICT102","_id":"bvMwJUZBApJUJzcT"}
+{"subject":"ICT202","requisite":"Networking ( Level -100 )","_id":"d7KCtgOcRn3bY00H"}
+{"subject":"ICT203","requisite":"ICT103","_id":"4BZbRK96s2yHyO1p"}
+{"subject":"ICT203","requisite":"Programming ( Level -100 )","_id":"mRA9bkeU7PBEyBR6"}
+{"subject":"ICT201: Database Systems ( Level -100 )","requisite":"","_id":"ya8VdyHCWiqMskto"}
+{"subject":"ICT204","requisite":"ICT101","_id":"aCuu8a5gqrxW2Vky"}
+{"subject":"ICT204","requisite":"Introduction to Information Technology ( Level -100 )","_id":"pRWQ0YYY1vyUi1xu"}
+{"subject":"ICT102: Networking ( Level -100 )","requisite":"","_id":"T1nqbYooDuiEWZTd"}
+{"subject":"ICT205","requisite":"ICT103","_id":"bqFj8lOKZhxaIVmI"}
+{"subject":"ICT205","requisite":"Programming ( Level -100 )","_id":"HqwgkywhLZch6olp"}
+{"subject":"ICT201: Database Systems ( Level -100 )","requisite":"","_id":"MR415J5yPyedgmV5"}
+{"subject":"ICT203: Web Application Development ( Level -200 )","requisite":"","_id":"0z9ZrEu84OkQpjZ1"}
+{"subject":"ICT206","requisite":"ICT103","_id":"n5FqxMBqXMRMARIb"}
+{"subject":"ICT206","requisite":"Programming ( Level -100 )","_id":"YxGkRwEKnCtbUEJv"}
+{"subject":"ICT208","requisite":"ICT104","_id":"0zmhKohl504ZLhL7"}
+{"subject":"ICT208","requisite":"Fundamentals of Computability ( Level -100 )","_id":"wPPXo9IVE1NRJBb4"}
+{"subject":"ICT301","requisite":"BUS101","_id":"lU1eFVbOsgeG1u87"}
+{"subject":"ICT301","requisite":"Business Communication ( Level -100 )","_id":"E4xtrZG57AI8QyQs"}
+{"subject":"BUS102: Management Principles ( Level -100 )","requisite":"","_id":"naNqiWwHxszgiqsY"}
+{"subject":"ICT206: Software Engineering ( Level -200 )","requisite":"","_id":"WvAm3qxzeXZpzmQK"}
+{"subject":"ICT302","requisite":"ICT103","_id":"wh6kNM0OLx1nfLts"}
+{"subject":"ICT302","requisite":"Programming ( Level -100 )","_id":"1oesjUxZbFXFCKVJ"}
+{"subject":"ICT104: Fundamentals of Computability ( Level -100 )","requisite":"","_id":"M45KELF8n7QW7SGe"}
+{"subject":"ICT208: Algorithms and Data Structures ( Level -200 )","requisite":"","_id":"POOpVjsnQ1v9zrX9"}
+{"subject":"ICT303","requisite":"ICT103","_id":"81nuhBZj5GPdL3Iw"}
+{"subject":"ICT303","requisite":"Programming ( Level -100 )","_id":"BDcQVyunYSQ2VllG"}
+{"subject":"ICT201: Database Systems ( Level -100 )","requisite":"","_id":"r8GmqZACYgUmEY7r"}
+{"subject":"ICT306","requisite":"ICT204","_id":"yNqOZmDOcUOn0qQO"}
+{"subject":"ICT306","requisite":"Cyber Security ( Level -200 )","_id":"USIyUVspQSMuoSrk"}
+{"subject":"ICT307","requisite":"ICT201","_id":"Mf0r5bd20T34pUcU"}
+{"subject":"ICT307","requisite":"Database Systems ( Level -100 )","_id":"ZSrG30k7L5GILk4y"}
+{"subject":"ICT203: Web Application Development ( Level -200 )","requisite":"","_id":"zryhJ4lVXAsIkZo8"}
+{"subject":"ICT206: Software Engineering ( Level -200 )","requisite":"","_id":"t98mKAFWlOG83rzQ"}
+{"subject":"ICT308","requisite":"ICT307","_id":"vKzh5wTKv31u1wyl"}
+{"subject":"ICT308","requisite":"Project 1 (Analysis and Design) ( Level -300 )","_id":"ludWTcwiahbBNhm5"}
+{"subject":"ICT311","requisite":"ICT102","_id":"zZ2gjRACRsgolPku"}
+{"subject":"ICT311","requisite":"Networking ( Level -100 )","_id":"2aaukDA5oPXe6CSb"}
+{"subject":"ICT103: Programming ( Level -100 )","requisite":"","_id":"lHxCHSWRE3BgeHox"}
+{"subject":"ICT312","requisite":"ICT203","_id":"eTn2QuGRKoVeuUMA"}
+{"subject":"ICT312","requisite":"Web Application Development ( Level -200 )","_id":"QZ2SvpONXqONYRcV"}
+{"subject":"ICT920","requisite":"ICT910","_id":"b5BMZSV5pj3KcTnA"}
+{"subject":"ICT920","requisite":"Enterprise Systems Security ( Level -900 )","_id":"pfOpH8I0QHcqQUfj"}
+{"subject":"ICT921","requisite":"ICT912","_id":"tKGNsomjIstjKLY3"}
+{"subject":"ICT921","requisite":"Programming ( Level -900 )","_id":"8l0SG85JoQN6y5PJ"}
+{"subject":"ICT922","requisite":"ICT913","_id":"1mJe9vy3zQ27m6PR"}
+{"subject":"ICT922","requisite":"Networking ( Level -900 )","_id":"Ztz9F7KQvUKw5m3D"}
+{"subject":"ICT930","requisite":"ICT911","_id":"AxPSzbtHOpRYRylG"}
+{"subject":"ICT930","requisite":"Database Management Systems ( Level -900 )","_id":"h3ExyYLGdOxLnJxn"}
+{"subject":"ICT912: Programming ( Level -900 )","requisite":"","_id":"iZFOHWyj9ozDxZWT"}
+{"subject":"ICT921: Applied Software Engineering ( Level -900 )","requisite":"","_id":"MULQ99HUT90uDV18"}
+{"subject":"ICT931","requisite":"ICT910","_id":"rvIEBr86lJ0et5V9"}
+{"subject":"ICT931","requisite":"Enterprise Systems Security ( Level -900 )","_id":"0tpw7X74pIqL0lx6"}
+{"subject":"ICT932","requisite":"ICT921","_id":"CgUNEXcBx2G0sp7Y"}
+{"subject":"ICT932","requisite":"Applied Software Engineering ( Level -900 )","_id":"2pxtCD89WVi2q16Q"}
+{"subject":"ICT933","requisite":"ICT921","_id":"wqCB9pGWVyfdxYRx"}
+{"subject":"ICT933","requisite":"Applied Software Engineering ( Level -900 )","_id":"fpIrlFpUrPkUrmam"}
+{"subject":"ICT934","requisite":"ICT920","_id":"4YGeGtvL37t4YiNT"}
+{"subject":"ICT934","requisite":"Management Information Systems ( Level -900 )","_id":"sjf4oORwGskZZNC8"}
+{"subject":"ICT940","requisite":"ICT931","_id":"Ab1t3u1lOdy8ibY3"}
+{"subject":"ICT940","requisite":"Cybersecurity Incident Response ( Level -900 )","_id":"6pcHuEBwfQYzU5y7"}
+{"subject":"ICT941","requisite":"ICT923","_id":"YbIO0KRMnvyMlOJX"}
+{"subject":"ICT941","requisite":"Information Technology Project Management ( Level -900 )","_id":"fg4kufRhtcQkGsNs"}
+{"subject":"ICT944","requisite":"ICT910","_id":"RfFg2wwZYVIv1QvO"}
+{"subject":"ICT944","requisite":"Enterprise Systems Security ( Level -900 )","_id":"rRI4Y4QezyjczGVP"}
+{"subject":"ICT911: Database Management Systems ( Level -900 )","requisite":"","_id":"qN1clSOnFriDfAM9"}
+{"subject":"ICT912: Programming ( Level -900 )","requisite":"","_id":"lxiJwqnR9CXQiSKy"}
+{"subject":"ICT913: Networking ( Level -900 )","requisite":"","_id":"PoHpeqn4koiOiWAK"}
+{"subject":"ICT920: Management Information Systems ( Level -900 )","requisite":"","_id":"jqxzsRkcNNC2s66l"}
+{"subject":"ICT921: Applied Software Engineering ( Level -900 )","requisite":"","_id":"kEKLF44zp7khJ7Qr"}
+{"subject":"ICT922: Digital Transformation and Cloud Computing ( Level -900 )","requisite":"","_id":"YmFIpRwf7FE7Pk4X"}
+{"subject":"ICT923: Information Technology Project Management ( Level -900 )","requisite":"","_id":"MmUOKJJe7ZFPeLjb"}
+{"subject":"ICT946","requisite":"ICT920","_id":"MuglzMQaEhmKZ1FK"}
+{"subject":"ICT946","requisite":"Management Information Systems ( Level -900 )","_id":"vkvYDo6z1JxXl9dE"}
+{"subject":"ICT921: Applied Software Engineering ( Level -900 )","requisite":"","_id":"vEIPf4SyLMwCyXjF"}
+{"subject":"ICT922: Digital Transformation and Cloud Computing ( Level -900 )","requisite":"","_id":"Lu5rj29kdwzQhwUK"}
+{"subject":"ICT923: Information Technology Project Management ( Level -900 )","requisite":"","_id":"ygdvzPSnLrRzlFoz"}
+{"subject":"ICT934: Enterprise Systems Integration & Engineering ( Level -200 )","requisite":"","_id":"8xvPl7YHHknmXaeL"}
+{"subject":"ICT942: Cybersecurity Project ( Level -200 )","requisite":"","_id":"t7B4qiSwXmDB0bLj"}
+{"subject":"ICT943: Software Development Project ( Level -200 )","requisite":"","_id":"u4MUJqmvC7T2kfdu"}
+{"subject":"ICT944: Cybersecurity & Software Development Integrative Project ( Level -200 )","requisite":"","_id":"l7XjQtiDarPzgTNZ"}
+{"subject":"ICT945: Professional Practice in Information Technology ( Level -200 )","requisite":"","_id":"GpZYD6xjB8VH8FaR"}
+{"subject":"LAW201","requisite":"LAW101","_id":"RqIZ1gk4u4FlEaNq"}
+{"subject":"LAW201","requisite":"Commerical Law ( Level -100 )","_id":"khReZ22Q3SaS8Z31"}
+{"subject":"LAW202","requisite":"ACC101","_id":"S1m9AzUThojIszOy"}
+{"subject":"LAW202","requisite":"Accounting Practice ( Level -100 )","_id":"VLLUTQ9uH0JH8Z6B"}
+{"subject":"LAW902","requisite":"ACC901","_id":"TutRa4z0TT49RVUp"}
+{"subject":"LAW902","requisite":"Accounting for Managerial Decisions ( Level -900 )","_id":"fuEmjnFlx6xjkXEB"}
+{"subject":"LAW901: Business and Corporation Law ( Level -900 )","requisite":"","_id":"1dT8CFZTG92gJgtw"}
