@@ -1,7 +1,6 @@
 import Datastore from 'nedb';
 import csv from 'csv-parser';
 import fs from 'fs';
-import path from 'path';
 
 export default class PreRequisiteService {
     private db: Datastore;
@@ -18,14 +17,13 @@ export default class PreRequisiteService {
                 .pipe(csv())
                 .on('data', (data) => {
                     const subject = data['Subject'];
-                    const requisiteSubjects = data['Requisite Subject List'].split(':').map((item: string) => item.trim());
+                    const requisiteSubjects = data['Requisite Subject List']?.split(':').map((item: string) => item.trim()) || [];
                     requisiteSubjects.forEach((requisite: string) => {
                         results.push({ subject, requisite });
                     });
                 })
                 .on('end', async () => {
                     try {
-                        await this.clearDatabase(); // Clear old data
                         await this.saveToDatabase(results);
                         resolve();
                     } catch (error) {
@@ -35,18 +33,6 @@ export default class PreRequisiteService {
                 .on('error', (error) => {
                     reject(error);
                 });
-        });
-    }
-
-    private async clearDatabase(): Promise<void> {
-        return new Promise((resolve, reject) => {
-            this.db.remove({}, { multi: true }, (err, numRemoved) => {
-                if (err) {
-                    reject(err);
-                } else {
-                    resolve();
-                }
-            });
         });
     }
 

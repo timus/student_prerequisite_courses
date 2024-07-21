@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="33ed2fc2-baa8-44ec-a0b8-8be6da161527" name="Default Changelist" comment="" />
+    <list default="true" id="33ed2fc2-baa8-44ec-a0b8-8be6da161527" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/StudentService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/courses.db" beforeDir="false" afterPath="$PROJECT_DIR$/data/courses.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/uploads/prerequisite.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/uploads/student___student_academic_and_attendance_summary_by_course_and_status_202472151536.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/uploads/~$Prerequisite.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/ParserService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/ParserService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/prerequisiteService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/prerequisiteService.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,17 +48,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2irk5cCJMGDcynPExLRezlMSIES" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -41,12 +74,24 @@
       <option name="presentableId" value="Default" />
       <updated>1720255900977</updated>
       <workItem from="1720255902186" duration="19338000" />
-      <workItem from="1721522020916" duration="4879000" />
+      <workItem from="1721522020916" duration="6996000" />
+      <workItem from="1721529036780" duration="4541000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="2590" y="358" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1721524201250">
@@ -58,6 +103,26 @@
       <screen x="1920" y="25" width="1920" height="1055" />
     </state>
     <state x="2618" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1920.990/1920.25.1920.1055@1920.25.1920.1055" timestamp="1720257405786" />
+    <state x="2020" y="125" width="1720" height="855" key="DiffContextDialog" timestamp="1721529512342">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2020" y="125" width="1720" height="855" key="DiffContextDialog/0.25.1920.993/1920.25.1920.1055@1920.25.1920.1055" timestamp="1721529512342" />
+    <state width="1878" height="287" key="GridCell.Tab.0.bottom" timestamp="1721527131072">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.0.bottom/0.25.1920.993/1920.25.1920.1055@1920.25.1920.1055" timestamp="1721527131072" />
+    <state width="1878" height="287" key="GridCell.Tab.0.center" timestamp="1721527131071">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.0.center/0.25.1920.993/1920.25.1920.1055@1920.25.1920.1055" timestamp="1721527131071" />
+    <state width="1878" height="287" key="GridCell.Tab.0.left" timestamp="1721527131071">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.0.left/0.25.1920.993/1920.25.1920.1055@1920.25.1920.1055" timestamp="1721527131071" />
+    <state width="1878" height="287" key="GridCell.Tab.0.right" timestamp="1721527131071">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.0.right/0.25.1920.993/1920.25.1920.1055@1920.25.1920.1055" timestamp="1721527131071" />
     <state x="659" y="275" width="602" height="490" key="find.popup" timestamp="1720866750185">
       <screen x="0" y="25" width="1920" height="990" />
     </state>
